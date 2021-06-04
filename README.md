@@ -3,8 +3,10 @@
 
 Capstone-Project---The-Battle-of-Neighborhoods
 
+![image](https://user-images.githubusercontent.com/78384555/120865861-d409b080-c55c-11eb-8fb1-1362e9f42be4.png)
 
 
+![image](https://user-images.githubusercontent.com/78384555/120865870-da982800-c55c-11eb-9ab3-f19fe6409c97.png)
 
 
 
